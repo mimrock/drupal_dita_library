@@ -1,0 +1,7 @@
+This is a side-project for DITA Integration for Drupal project on drupal.org. http://drupal.org/project/dita
+
+It contains a slightly modified xslt pack from DITA Open Toolkit and the offical DITA XML Schemas.
+
+Install:
+
+Simply put the contents of the libs/ directory to dita/libs Where dita is the module's root. E.g. there will be a dita/libs/xslt dir.
